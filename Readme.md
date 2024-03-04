@@ -2,4 +2,3 @@
 - config dentro da pasta do projeto
 - formato do Readme.md
 - Novo include para gerar conflito
-- novo teste de revert
